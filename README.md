@@ -5,7 +5,7 @@ This project clears all obstructions found in PPM images and reproduces a clear 
   1. Download and move all Birds 1-17.ppm files to the main directory. 
   2. Run the following commands:
      ```sh
-        javac Blur.java
+      javac Blur.java
       ```
       ```sh
         java Blur
