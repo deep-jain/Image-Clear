@@ -31,7 +31,7 @@ This project clears all obstructions found in PPM images and gnerates a clear PP
         Opening birds17.ppm
         354, 684, 255
         ```
-   4. Run ppmReader.html in a web browser and load the blurred.ppm file. 
+   4. To view your newly generated image, you can upload blurred.ppm [here](https://jdeep97.github.io/Image-Clear/ppmReader.html)
 
 Before | After
 ------------ | -------------
