@@ -13,10 +13,7 @@ public class Clear {
     rm = new Random();
     int pics = 17;
     File[] file = new File[pics];
-    //String prefix = "../resource/asnlib/publicdata/";
-    // C:/Users/Deep Jain/Work Area/College Materials/Fall 2020/CS114/PS10/PPM
     String prefix = "";
-    //String prefix = "";
     for (int p = 1; p <= pics; ++p) {
       String suff = String.valueOf(p);
       String filename = prefix + "birds" + suff + ".ppm";
@@ -26,7 +23,6 @@ public class Clear {
 
 
     // create a scanner for each of the pictures
-    //
     Scanner[] scan = new Scanner[pics];
 
     int rows = 0, cols = 0, mx = 0;
