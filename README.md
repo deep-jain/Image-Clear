@@ -1,5 +1,5 @@
 # Image-Clear
-This project clears all obstructions found in PPM images and gnerates a clear PPM using advanced decision making algorithms. Use the ppmReader.html to view the files in picture format. 
+This project clears all obstructions found in PPM images and generates a clear PPM using advanced decision making algorithms. 
 
 ### To compile and Run Code:
   1. Download and move all Birds 1-17.ppm files to the main directory. 
