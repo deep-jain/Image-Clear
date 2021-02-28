@@ -8,7 +8,7 @@ This project clears all obstructions found in PPM images and generates a clear P
       javac Blur.java
       ```
       ```sh
-      java Blur
+       java Blur
       ```
    3. Your Terminal Output:
         ```sh
