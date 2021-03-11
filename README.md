@@ -31,9 +31,9 @@ This project clears all obstructions found in PPM images and generates a clear P
         Opening birds17.ppm
         354, 684, 255
         ```
-   4. To view your newly generated image, you can upload blurred.ppm [here](https://jdeep97.github.io/Image-Clear/ppmReader.html)
+   4. To view your newly generated image, you can upload blurred.ppm [here](https://deepdatasci.github.io/Image-Clear/ppmReader.html)
 
 Before | After
 ------------ | -------------
-![Before](https://github.com/jdeep97/Image-Clear/blob/main/Static/Before.png) |![After](https://github.com/jdeep97/Image-Clear/blob/main/Static/After.png)
+![Before](https://github.com/deepdatasci/Image-Clear/blob/main/Static/Before.png) |![After](https://github.com/deepdatasci/Image-Clear/blob/main/Static/After.png)
 
