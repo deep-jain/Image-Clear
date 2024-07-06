@@ -1,5 +1,5 @@
 # Image-Clear
-This project clears all obstructions found in PPM images and generates a clear PPM using advanced decision making algorithms. 
+This project clears all obstructions found in PPM images and generates a clear PPM using ML. 
 
 ### To compile and Run Code:
   1. Download and move all Birds 1-17.ppm files to the main directory. 
